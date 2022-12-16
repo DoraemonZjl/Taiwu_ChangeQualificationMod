@@ -1,0 +1,21 @@
+return {
+	EventGuid = "15221e83-a2d3-470c-b3c7-543678163dc6",
+	TmEdit = 1671126962,
+	SaveVersion = "Alpha_1",
+	EventGroup = "ChangeQualification",
+	ForceSingle = false,
+	EventType = "ModEvent",
+	TriggerType = "RecordEnterGame",
+	EventOrder = 500,
+	DecideRole = "",
+	TargetRole = "",
+	EventTexture = "",
+	TexturePath = "",
+	ControlMask = false,
+	ControlMaskCode = 0,
+	MaskTweenTime = "0",
+	AudioName = "",
+	EscOption = "",
+	Options = {
+	},
+}

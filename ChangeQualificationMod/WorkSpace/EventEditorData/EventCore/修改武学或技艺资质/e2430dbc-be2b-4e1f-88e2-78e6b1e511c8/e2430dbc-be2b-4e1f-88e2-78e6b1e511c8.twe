@@ -1,0 +1,22 @@
+return {
+	EventGuid = "e2430dbc-be2b-4e1f-88e2-78e6b1e511c8",
+	TmEdit = 1671168628,
+	SaveVersion = "Alpha_1",
+	EventGroup = "ChangeQualification",
+	ForceSingle = false,
+	EventType = "ModEvent",
+	TriggerType = "None",
+	EventOrder = 500,
+	DecideRole = "",
+	TargetRole = "",
+	EventTexture = "",
+	InternalTexture = false,
+	TexturePath = "",
+	ControlMask = false,
+	ControlMaskCode = 0,
+	MaskTweenTime = "0",
+	AudioName = "",
+	EscOption = "",
+	Options = {
+	},
+}

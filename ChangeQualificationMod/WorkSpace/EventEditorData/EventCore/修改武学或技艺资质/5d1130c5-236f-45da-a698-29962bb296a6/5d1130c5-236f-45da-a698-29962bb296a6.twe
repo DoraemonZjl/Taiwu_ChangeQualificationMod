@@ -1,0 +1,38 @@
+return {
+	EventGuid = "5d1130c5-236f-45da-a698-29962bb296a6",
+	TmEdit = 1671170873,
+	SaveVersion = "Alpha_1",
+	EventGroup = "ChangeQualification",
+	ForceSingle = false,
+	EventType = "ModEvent",
+	TriggerType = "None",
+	EventOrder = 500,
+	DecideRole = "RoleTaiwu",
+	TargetRole = "CharacterId",
+	EventTexture = "",
+	InternalTexture = false,
+	TexturePath = "",
+	ControlMask = false,
+	ControlMaskCode = 0,
+	MaskTweenTime = "0",
+	AudioName = "",
+	EscOption = "",
+	Options = {
+		[1] = {
+			Guid = "67aedfba-4a5a-493f-9f38-75757a3693cf",
+			OptionKey = "Option_661866737",
+		},
+		[2] = {
+			Guid = "fde80392-74f7-4294-8407-94ca01d10a8f",
+			OptionKey = "Option_-1840164243",
+		},
+		[3] = {
+			Guid = "1c88ef00-4b91-48e9-a378-be6176ae6dc1",
+			OptionKey = "Option_1572916615",
+		},
+		[4] = {
+			Guid = "416bb9d0-51d4-4558-8a99-9286d259ab8d",
+			OptionKey = "Option_-1240309973",
+		},
+	},
+}

@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+      <DefineConstants>TRACE;IN_IDE</DefineConstants>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Reference Include="GameData">
+        <HintPath>..\..\..\Backend\GameData.dll</HintPath>
+      </Reference>
+    </ItemGroup>
+
+    <ItemGroup>
+        <Folder Include="EventEditorData" />
+        <Folder Include="CustomConfig" />
+    </ItemGroup>
+</Project>

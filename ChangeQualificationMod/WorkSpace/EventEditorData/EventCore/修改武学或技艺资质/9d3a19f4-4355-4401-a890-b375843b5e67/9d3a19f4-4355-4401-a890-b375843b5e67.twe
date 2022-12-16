@@ -1,0 +1,22 @@
+return {
+	EventGuid = "9d3a19f4-4355-4401-a890-b375843b5e67",
+	TmEdit = 1671168647,
+	SaveVersion = "Alpha_1",
+	EventGroup = "ChangeQualification",
+	ForceSingle = false,
+	EventType = "ModEvent",
+	TriggerType = "NewGameMonth",
+	EventOrder = 999,
+	DecideRole = "",
+	TargetRole = "",
+	EventTexture = "",
+	InternalTexture = false,
+	TexturePath = "",
+	ControlMask = false,
+	ControlMaskCode = 0,
+	MaskTweenTime = "0",
+	AudioName = "",
+	EscOption = "",
+	Options = {
+	},
+}

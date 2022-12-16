@@ -1,0 +1,25 @@
+return {
+	EventGuid = "f387e43f-acac-4e88-ae32-92ccb64adfa7",
+	TmEdit = 1671179279,
+	SaveVersion = "Alpha_1",
+	EventGroup = "ChangeQualification",
+	ForceSingle = false,
+	EventType = "ModEvent",
+	TriggerType = "CharacterClicked",
+	EventOrder = 20000,
+	DecideRole = "",
+	TargetRole = "",
+	EventTexture = "",
+	TexturePath = "",
+	ControlMask = false,
+	ControlMaskCode = 0,
+	MaskTweenTime = "0",
+	AudioName = "",
+	EscOption = "",
+	Options = {
+		[1] = {
+			Guid = "46143176-0d1b-4921-bc31-a37428e8f256",
+			OptionKey = "Option_336767243",
+		},
+	},
+}

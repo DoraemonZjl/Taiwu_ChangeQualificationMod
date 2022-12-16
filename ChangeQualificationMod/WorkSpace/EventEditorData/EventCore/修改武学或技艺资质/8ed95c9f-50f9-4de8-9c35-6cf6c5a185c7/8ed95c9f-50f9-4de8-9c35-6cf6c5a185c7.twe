@@ -1,0 +1,86 @@
+return {
+	EventGuid = "8ed95c9f-50f9-4de8-9c35-6cf6c5a185c7",
+	TmEdit = 1671170866,
+	SaveVersion = "Alpha_1",
+	EventGroup = "ChangeQualification",
+	ForceSingle = false,
+	EventType = "ModEvent",
+	TriggerType = "None",
+	EventOrder = 500,
+	DecideRole = "RoleTaiwu",
+	TargetRole = "CharacterId",
+	EventTexture = "",
+	InternalTexture = false,
+	TexturePath = "",
+	ControlMask = false,
+	ControlMaskCode = 0,
+	MaskTweenTime = "0",
+	AudioName = "",
+	EscOption = "",
+	Options = {
+		[1] = {
+			Guid = "76ffa26f-4101-488d-9e8a-b09cc82936c5",
+			OptionKey = "Option_-1439621986",
+		},
+		[2] = {
+			Guid = "4f048260-88a1-4087-86a3-c0610becfa8b",
+			OptionKey = "Option_-1766385178",
+		},
+		[3] = {
+			Guid = "b53cccc8-8d93-4f14-a6bc-4d5dbbc0f83d",
+			OptionKey = "Option_957033684",
+		},
+		[4] = {
+			Guid = "0ccaad9a-679c-4a31-ad55-de83f0649fd7",
+			OptionKey = "Option_1169039887",
+		},
+		[5] = {
+			Guid = "15d34696-c892-4fd4-9d10-553094cab012",
+			OptionKey = "Option_-154958863",
+		},
+		[6] = {
+			Guid = "18186326-0dcd-4b6c-9408-5ed61243fb4a",
+			OptionKey = "Option_-1288732613",
+		},
+		[7] = {
+			Guid = "ac817e94-0620-403b-a975-f27be53f0ea6",
+			OptionKey = "Option_320210905",
+		},
+		[8] = {
+			Guid = "e37ce997-9c44-4d7c-81ac-f4e1a8e64ea5",
+			OptionKey = "Option_-762793346",
+		},
+		[9] = {
+			Guid = "abb74e78-c9a0-42ac-a9ab-2c47b309df68",
+			OptionKey = "Option_-884895430",
+		},
+		[10] = {
+			Guid = "444ac239-10e8-4106-9be7-f6b663ef19e8",
+			OptionKey = "Option_-56733169",
+		},
+		[11] = {
+			Guid = "6bd28d19-8b9b-41ef-92de-db521d2d1258",
+			OptionKey = "Option_-79603061",
+		},
+		[12] = {
+			Guid = "8402e3b4-acff-49cf-9adb-87c970a3951b",
+			OptionKey = "Option_-404380059",
+		},
+		[13] = {
+			Guid = "3e486d15-a5e4-4f08-be6d-bf134e50756a",
+			OptionKey = "Option_1141954609",
+		},
+		[14] = {
+			Guid = "14766a99-dc82-41e4-a522-1ba8fdc60f39",
+			OptionKey = "Option_1585965255",
+		},
+		[15] = {
+			Guid = "744d17a9-0966-4d4a-b718-3ba1823f5cfe",
+			OptionKey = "Option_-1027531922",
+		},
+		[16] = {
+			Guid = "29e226a5-454a-4a88-ae60-c9bd412db6eb",
+			OptionKey = "Option_1240611399",
+		},
+	},
+}

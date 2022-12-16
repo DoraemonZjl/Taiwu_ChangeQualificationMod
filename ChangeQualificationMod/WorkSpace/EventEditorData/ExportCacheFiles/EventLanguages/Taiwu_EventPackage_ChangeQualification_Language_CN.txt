@@ -1,0 +1,79 @@
+- Group : ChangeQualification
+- GroupName : 修改武学或技艺资质
+- Language : CN
+
+- EventGuid : b7eb7922-1e6b-40af-8640-e12649a73e8a
+	- EventName : 1-强制将mod人物移动到太吾村地格
+		-- EventContent : 
+
+- EventGuid : 5d1130c5-236f-45da-a698-29962bb296a6
+	- EventName : 6-修改数值
+		-- EventContent : （存入int UpdateVaule参数）<NL>请选择
+		-- Option_1 : 1
+		-- Option_2 : 2
+		-- Option_3 : 5
+		-- Option_4 : 10
+
+- EventGuid : 5aab3fb9-a681-4846-91ad-1924d024db1e
+	- EventName : 3-修改资质选项（增加或减少）
+		-- EventContent : （存入int ChangeQualificationAddOrDecrease参数注释）<NL>0为增加武学资质，1为增加技艺资质，2为减少武学资质，3为减少技艺资质<NL>不用理会这个信息，按照需求点击选项即可。
+		-- Option_1 : 修改武学资质（增加）
+		-- Option_2 : 修改技艺资质（增加）
+		-- Option_3 : 修改武学资质（减少）
+		-- Option_4 : 修改技艺资质（减少）
+
+- EventGuid : f387e43f-acac-4e88-ae32-92ccb64adfa7
+	- EventName : 2-移植修改资质选项至mod人物对话中
+		-- EventContent : 
+		-- Option_1 : 修改武学或技艺资质（不是造诣，mod人物才可见此选项）
+
+- EventGuid : 15221e83-a2d3-470c-b3c7-543678163dc6
+	- EventName : 0-添加MOD对话人物
+		-- EventContent : 
+
+- EventGuid : 1dec845f-a450-401e-9930-5d7d49252d01
+	- EventName : 4-修改武学资质（具体武学）
+		-- EventContent : （存入int UpdateCombatSkillType参数）<NL>请选择
+		-- Option_1 : 内功
+		-- Option_2 : 身法
+		-- Option_3 : 绝技
+		-- Option_4 : 拳掌
+		-- Option_5 : 指法
+		-- Option_6 : 腿法
+		-- Option_7 : 暗器
+		-- Option_8 : 剑法
+		-- Option_9 : 刀法
+		-- Option_10 : 长兵
+		-- Option_11 : 奇门
+		-- Option_12 : 软兵
+		-- Option_13 : 御射
+		-- Option_14 : 乐器
+
+- EventGuid : 9d3a19f4-4355-4401-a890-b375843b5e67
+	- EventName : 8-判断mod人物是否死亡
+		-- EventContent : 
+
+- EventGuid : e2430dbc-be2b-4e1f-88e2-78e6b1e511c8
+	- EventName : 7-执行函数
+		-- EventContent : 
+
+- EventGuid : 8ed95c9f-50f9-4de8-9c35-6cf6c5a185c7
+	- EventName : 5-修改技艺资质（具体技艺）
+		-- EventContent : （存入int UpdateLifeSkillType参数）<NL>请选择
+		-- Option_1 : 音律
+		-- Option_2 : 弈棋
+		-- Option_3 : 诗书
+		-- Option_4 : 绘画
+		-- Option_5 : 术数
+		-- Option_6 : 品鉴
+		-- Option_7 : 锻造
+		-- Option_8 : 制木
+		-- Option_9 : 医术
+		-- Option_10 : 毒术
+		-- Option_11 : 织锦
+		-- Option_12 : 巧匠
+		-- Option_13 : 道法
+		-- Option_14 : 佛学
+		-- Option_15 : 厨艺
+		-- Option_16 : 杂学
+

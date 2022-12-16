@@ -1,0 +1,78 @@
+return {
+	EventGuid = "1dec845f-a450-401e-9930-5d7d49252d01",
+	TmEdit = 1671170857,
+	SaveVersion = "Alpha_1",
+	EventGroup = "ChangeQualification",
+	ForceSingle = false,
+	EventType = "ModEvent",
+	TriggerType = "None",
+	EventOrder = 500,
+	DecideRole = "RoleTaiwu",
+	TargetRole = "CharacterId",
+	EventTexture = "",
+	InternalTexture = false,
+	TexturePath = "",
+	ControlMask = false,
+	ControlMaskCode = 0,
+	MaskTweenTime = "0",
+	AudioName = "",
+	EscOption = "",
+	Options = {
+		[1] = {
+			Guid = "1595f1c6-8a29-42e5-8859-e8350a42aa99",
+			OptionKey = "Option_-736305346",
+		},
+		[2] = {
+			Guid = "465c4133-9120-4c98-99e2-4143bbf1a836",
+			OptionKey = "Option_-2097313193",
+		},
+		[3] = {
+			Guid = "6e9fdd37-cf74-4804-8ee1-fa9d076e486f",
+			OptionKey = "Option_-1343876831",
+		},
+		[4] = {
+			Guid = "c388fcdb-efff-4969-9637-db0a50d4e085",
+			OptionKey = "Option_-1377278821",
+		},
+		[5] = {
+			Guid = "d9f3137c-a625-4618-a42e-d97e26af3ce9",
+			OptionKey = "Option_-1674828957",
+		},
+		[6] = {
+			Guid = "aca39af5-2b50-493c-add8-c8da2960c924",
+			OptionKey = "Option_-1734153963",
+		},
+		[7] = {
+			Guid = "b6b325ac-1cbd-4cf5-a119-dc935f6916a7",
+			OptionKey = "Option_551083046",
+		},
+		[8] = {
+			Guid = "5a1c6de1-866f-4cbd-bd80-d1bd041e99ab",
+			OptionKey = "Option_-1261963243",
+		},
+		[9] = {
+			Guid = "35f24174-77dd-487e-baa7-ac5a5dd545e6",
+			OptionKey = "Option_-882500797",
+		},
+		[10] = {
+			Guid = "729987a5-f544-45ff-b78a-a22e5658915d",
+			OptionKey = "Option_698393935",
+		},
+		[11] = {
+			Guid = "21f28dd8-8aaf-4822-ad53-f27e3d867925",
+			OptionKey = "Option_-1882797176",
+		},
+		[12] = {
+			Guid = "04ed3dee-dbe7-4ba0-8de1-d4bb6edd858a",
+			OptionKey = "Option_-1344762204",
+		},
+		[13] = {
+			Guid = "5d4f0d84-c9ec-4d60-aed6-4a86d03929a8",
+			OptionKey = "Option_1741358026",
+		},
+		[14] = {
+			Guid = "92222eb7-f81f-4b06-b217-e5f5b8b36fc4",
+			OptionKey = "Option_-739186931",
+		},
+	},
+}
